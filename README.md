@@ -1,8 +1,10 @@
 # DashPress Docker image
 
-It is base on [dashpress⁠][1]
+Unofficial [DashPress][1] Docker image
 
 Generate powerful admin apps without writing a single line of code.
+
+[![publish Docker image](https://github.com/freeCodeCamp-China/DashPress-Docker/actions/workflows/publish.yml/badge.svg)][2]
 
 ## Run the image
 
@@ -57,3 +59,4 @@ dashpress:
 ```
 
 [1]: https://github.com/dashpresshq/dashpress
+[2]: https://github.com/freeCodeCamp-China/DashPress-Docker/actions/workflows/publish.yml
